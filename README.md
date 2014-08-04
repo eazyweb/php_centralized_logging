@@ -1,4 +1,4 @@
-php_centralized_logging
-=======================
+php_queue_logging
+=================
 
-This helps php projects to use centralized logging using Rabbitmq, Erlang and Mysql
+This is the centralized logging system for php using rabbitmq
