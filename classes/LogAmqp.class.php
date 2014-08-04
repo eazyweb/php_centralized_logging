@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
 /**
-* @author : venkateshk@ybrantdigital.com
+* @author : venkatesh@xpertizein.com
 * @description: This class deals with Amqp Connection with RabbitMQ and performs all the Amqp operations. 
 **/
 
